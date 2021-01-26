@@ -26,6 +26,8 @@ them is D=min{D_1,D_2}.
 
 <h2>GUI Example</h2>
 <img src = "https://github.com/emrekavak/SimulationOfEpidemic/blob/main/simulationOfEpidemic.png" >
+<br>
+<br>
 <li> You can download the simulationOfEpidemic.jar file and run the application. 
 <li> After you add individuals from add frame, you should click the START button and simulation will start.
 <li> If you click PAUSE button, simulation will pause but the data will continue process.
