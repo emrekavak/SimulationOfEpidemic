@@ -1,5 +1,5 @@
 # SimulationOfEpidemic
-Simulation of Epidemic Desktop Program written using JAVA language. JAVA version = 11
+Visual simulation of an epidemic. Desktop application  written by JAVA language. JAVA version = 11
 
 <h2> Used libraries </h2>
 <li> Swing
