@@ -22,12 +22,14 @@ them is D=min{D_1,D_2}.
 <li> After 10 seconds, hospitilazed individual back to canvas as healty
 <li> Hospital has individual count / 10 ventilator. If hospital full, individual back to canvas and when 1 ventilator be empty go to hospital
 <li> An infected individual will die after 100 * (1-Z) seconds if he/she still infected
-
-
-
-
+<br>
 
 <h2>GUI Example</h2>
 <img src = "https://github.com/emrekavak/SimulationOfEpidemic/blob/main/simulationOfEpidemic.png" >
 
+<li> After you add individuals from add frame, you should click the START button and simulation will start.
+<li> If you click PAUSE button, simulation will pause but the data will continue process.
+<li> The frames did not fixed positions, so you can change the design of GUI.
+<li> The charts show the statistical informations
+<br>
 <b> This program implemented in Object Oriented Design Pattern Final project.</b>
