@@ -34,4 +34,5 @@ them is D=min{D_1,D_2}.
 <li> The frames did not fixed positions, so you can change the design of GUI.
 <li> The charts show the statistical informations
 <br>
+<br>
 <b> This program implemented in Object Oriented Design Pattern Final project.</b>
