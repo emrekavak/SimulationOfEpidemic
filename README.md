@@ -1,6 +1,8 @@
 # SimulationOfEpidemic
 Visual simulation of an epidemic. Desktop application  written by JAVA language. JAVA version = 11
-
+<h2>GUI Example</h2>
+<img src = "https://github.com/emrekavak/SimulationOfEpidemic/blob/main/simulationOfEpidemic.png" >
+<br>
 <h2> Used libraries </h2>
 <li> Swing
 <li> JFreeChart
@@ -24,9 +26,7 @@ them is D=min{D_1,D_2}.
 <li> An infected individual will die after 100 * (1-Z) seconds if he/she still infected
 <br>
 
-<h2>GUI Example</h2>
-<img src = "https://github.com/emrekavak/SimulationOfEpidemic/blob/main/simulationOfEpidemic.png" >
-<br>
+
 <br>
 <li> You can download the simulationOfEpidemic.jar file and run the application. 
 <li> After you add individuals from add frame, you should click the START button and simulation will start.
